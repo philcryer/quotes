@@ -1,6 +1,5 @@
 # Quotes 
 #### _You have no chance to survive make your time_
------
 
 ## The classic collection
 _generic, useful laugh getters, almost regardless of current topic_
