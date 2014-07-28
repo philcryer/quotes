@@ -1,11 +1,13 @@
 # Quotes 
 #### _You have no chance to survive make your time_
+-----
 
-## The IS Classic collection
+## The classic collection
 _generic, useful laugh getters, almost regardless of current topic_
 
 * Has this ever worked?™
 * That's not supported™
+* That will come up at the review™
 * ¯\\(°_o)/¯ or my preference ¯\\_(ツ)_/¯
 * Is the service running?™
 * What are we doing now?™
@@ -14,11 +16,9 @@ _generic, useful laugh getters, almost regardless of current topic_
 * Works on my machine™
 * It just works™
 * Have you cleared your cache?™
-* As with any large change/shift like this, rumors and speculation will be rampant today and over the next few days.  Please do not contribute to this by passing on information that you’ve heard
-* Due to the technical nature of your position, our expectation is that you are able to unplug your computer/monitor/keyboard/mouse/peripheral equipment
-* That will come up at the review™
+* As with any large change/shift like this, rumors and speculation will be rampant today and over the next few days.  Please do not contribute to this by passing on information that you’ve heard™
 
-## MS - you think you hate it now...
+## You think you hate it now...
 _a new section in our canon - selling products you know and love_
 
 * one customer we should have kicked to the curb
@@ -35,6 +35,7 @@ _a new section in our canon - selling products you know and love_
 * Red means not good news
 * Let me see if i understand you correctly
 * There's never an outage, only service in interruptions
+* Due to the technical nature of your position, our expectation is that you are able to unplug your computer/monitor/keyboard/mouse/peripheral equipment
 * Can you please help us to understand the nature of the problem so that we can help to build stakeholder confidence about environment reliability?  
 * "Hey, man... can you answer a quick question? Really should just be a one off." "Nope." "Thanks. Have a great weekend!"
 
