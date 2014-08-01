@@ -36,7 +36,9 @@ _a new section in our canon - selling products you know and love_
 * There's never an outage, only service in interruptions
 * Due to the technical nature of your position, our expectation is that you are able to unplug your computer/monitor/keyboard/mouse/peripheral equipment
 * Can you please help us to understand the nature of the problem so that we can help to build stakeholder confidence about environment reliability?  
-* "Hey, man... can you answer a quick question? Really should just be a one off." "Nope." "Thanks. Have a great weekend!"
+* "Hey, man... can you answer a quick question? Really should just be a one off."  
+"Nope."  
+"Thanks. Have a great weekend!"
 
 
 ## ${COMPANY}
@@ -47,3 +49,72 @@ _we are ${COMPANY}, or something like that, are we corpy enough for you?_
 * Hold you to the fire
 * table stakes
 * I passed a note to...
+
+##Overheard
+_co-workers say the darnedest things (**BR** == breakroom)_
+
+1. “Has this ever worked?”
+1. "Just keep going, as long as it's not a security violation..."
+1. **BR:** "Hey, how's it going, playa?"
+1. “Do you know what service pack it has installed?"
+1. **BR:** "This is the most important decision you're going to make today."
+1. “Possession is 9/10 of the law, so..."
+1. “Look: I rebooted again, and I still get a 500 server error"
+1. 1: "Well we don't want everyone to have the password and spam us”  
+2: "Ok, but it's just the normal one we use?”  
+1: "Yeah"
+1. **BR:** "I'm going to drink as much soda as I can..."
+1. "It never worked."
+1. "Hey, who just joined?"
+1. "I cleared cache in all IE, all Firefox, rebooted..."
+1. **BR:** "Where the grapes be at?"
+1. **BR:** “Hey, playa!"
+1. **BR:** "When's the last time you bounced it?"
+1. **BR:** "When I started, they let everyone go.”
+1. "I don't know man, it looks kinda rough.”
+1. “Who do I submit my complaints to?”
+1. “Uh, I think I locked myself out.”
+1. “Can't we just give it to someone else? Have someone else do it? I'm swamped”
+1. “So are you remoted into something, that's remoted into something?”
+1. “Its going to be that kind of Friday…"
+1. “Nice dress, by the way…"
+1. “Yeah, and I'm wearing jeans that day, so…”
+1. "I personally don't like him.”
+1. "Tomorrow's Friday!”
+1. "You can now get it up in about an hour…"
+1. "Wait a minute, you can not come in here wearing that hat.”
+1. "I'll make somebody help me.”
+1. “I’m half tempted to go sit in my car because I’m so cold.”
+1. "I played soccer for like, 5 or 6 years.”
+1. "I'm not an expert. By any means.”
+1. "I'm not a pretty sleeper.”
+1. 1: "How are you doing?”  
+2: "Not good: I hurt my back, so I took some vicodine this morning and threw up on my way to work.”
+1. "I could work myself out of a job.”
+1. "Your look says dial-tone.”
+1. "The answer is no.”
+1. "I'm more of a finger-mover. My brother is a hand-mover.”
+1. "I am an excellent copy/paste master.”
+1. "Is a soccer game called a match?”
+1. "Chef is an infrastructure management tool; NOT an application deployment one.”
+1. "We should work for a technology company.”
+1. “This is a discussion that we should have had in January.”
+1. "I'll quadruple check, but I'm 99.9% sure it's Sunday morning.”
+1. "I just spent two hours on the phone with the Help Desk to figure out the login to submit a ticket to the Help Desk.”
+1. "I don't like electricity.”
+1. "Um, do I need to be logged into my like, PAM account? It's pretty weird, because I'm pretty sure I've used this before.”
+1. "I'm sorry, what was the question again?”
+1. "The whole purpose is to BECOME A TEAM!”
+1. “It's kinda our go to, if something doesn't work, do a full crawl of it.”
+1. “For teamsites, we haven't done a full crawl since April.”
+1. "We can try that... unless someone has a better idea.”
+1. "Oh my God, look who's here!”
+1. "...chocolate, ChocolatE, CHOCOLATE, ChocolatE, chocolate…"
+1. "It's STILL not working.”
+1. “Ha ha ha… I almost killed it.”
+1. "I'm so jealous of your desk.”
+1. “It’s raining if your windows are down.”
+1. "I had all sorts of issues, but I thought they were VDI related.”
+1. "Yeah... huh, what? Yes me!”
+1. "That's mosquito-borne.”
+1. "See you in Cyberspace!"
