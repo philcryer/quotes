@@ -119,5 +119,6 @@ _co-workers say the darnedest things (**BR** == breakroom)_
 1. "That's mosquito-borne."
 1. "See you in Cyberspace!"
 1. "Uh-oh… outta paper"
-1. "Hey, keep it down over there.""
-
+1. "Hey, keep it down over there."
+1. "You can, but Bob's gonna have a sh*t fit."
+1. "Oh, hey! You've been in the office a lot lately!"
