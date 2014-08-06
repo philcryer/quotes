@@ -122,3 +122,4 @@ _co-workers say the darnedest things (**BR** == breakroom)_
 1. "Hey, keep it down over there."
 1. "You can, but Bob's gonna have a sh*t fit."
 1. "Oh, hey! You've been in the office a lot lately!"
+1. "One day you'll get it right... one day."
