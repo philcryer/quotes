@@ -123,3 +123,5 @@ _co-workers say the darnedest things (**BR** == breakroom)_
 1. "You can, but Bob's gonna have a sh*t fit."
 1. "Oh, hey! You've been in the office a lot lately!"
 1. "One day you'll get it right... one day."
+1. "Do you have a pot for my banana tree?  My banana tree needs a new home."
+1. "That’s how **I** roll."
