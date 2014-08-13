@@ -125,3 +125,5 @@ _co-workers say the darnedest things (**BR** == breakroom)_
 1. "One day you'll get it right... one day."
 1. "Do you have a pot for my banana tree?  My banana tree needs a new home."
 1. "That’s how **I** roll."
+1. "Just stand there with a cry bucket."
+1. "Okay, begin the bludgeoning."
