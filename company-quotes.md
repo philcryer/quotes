@@ -133,3 +133,13 @@ _co-workers say the darnedest things (**BR** == breakroom)_
 1. "Okay, but why for?"
 1. "It's your meeting, bro."
 1. "I was the one doing all the work!"
+1. "Do you want me to create a work order for that?"
+1. "You probably need to talk to your Mom about that."
+1. "I don't think we know what we're doing."
+1. "Painfully valuable."
+1. "No pants on."
+1. ”3 down... 20 to go."
+1. "They have an awesome fish sandwich."
+1. "I grew up with this, so it’s, like, nostalgic to listen to old-school Eminem."
+1. 1: “Like, I have to send it from Dropbox.”  
+2: "I don't know what Dropbox is."
