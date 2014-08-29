@@ -143,3 +143,11 @@ _co-workers say the darnedest things (**BR** == breakroom)_
 1. "I grew up with this, so it’s, like, nostalgic to listen to old-school Eminem."
 1. 1: “Like, I have to send it from Dropbox.”  
 2: "I don't know what Dropbox is."
+1. "Sometimes I put my pizza on a napkin, but then the cheese flows over."
+1. "I'm trying to figure out how big these salads are."
+1. "I did say it like that; I know, I'm such a sh*t!"
+1. "More details on it later, but I basically just explained it."
+1. "I'm in 'type' mode."
+1. "You can probably hack your way in, but that's not a good option."
+1. "Logic seriously pollutes your trash."
+1. "This should do what it’s supposed to do."
