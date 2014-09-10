@@ -16,6 +16,7 @@ _generic, useful laugh getters, almost regardless of current topic_
 * It just works™
 * Have you cleared your cache?™
 * As with any large change/shift like this, rumors and speculation will be rampant today and over the next few days.  Please do not contribute to this by passing on information that you’ve heard™
+* In the meantime just remember, you don't need to print anything
 
 ## You think you hate it now...
 _a new section in our canon - selling products you know and love_
