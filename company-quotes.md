@@ -155,7 +155,6 @@ _co-workers say the darnedest things (**BR** == breakroom)_
 1. "I'm in 'type' mode."
 1. "You can probably hack your way in, but that's not a good option."
 1. "Logic seriously pollutes your trash."
-<<<<<<< HEAD
 1. "This should do what it's supposed to do."
 1. "I'm not going to be a dick about it."
 1. "20 minutes ago I called someone else a dumbass."
@@ -168,7 +167,5 @@ _co-workers say the darnedest things (**BR** == breakroom)_
 1. "He better bring in some pastries, or I'm going to ride his ass till he does."
 1. "You're looking a little white."
 1. "But technology is changing so fast; next year we'll have some kind of new whiz-bang device we'll all have to have."
+1. "Don't lose it while it's hot in your brain."
 1. "I've got to go get my third cup of coffee."
-=======
-1. "This should do what it’s supposed to do."
->>>>>>> 0a6bd37a66271831ffebeda6288fcfb1f7a89535
