@@ -15,7 +15,7 @@ _generic, useful laugh getters, almost regardless of current topic_
 * Works on my machine™
 * It just works™
 * Have you cleared your cache?™
-* As with any large change/shift like this, rumors and speculation will be rampant today and over the next few days.  Please do not contribute to this by passing on information that you’ve heard™
+* As with any large change/shift like this, rumors and speculation will be rampant today and over the next few days.  Please do not contribute to this by passing on information that you've heard™
 
 ## You think you hate it now...
 _a new section in our canon - selling products you know and love_
@@ -84,7 +84,7 @@ _co-workers say the darnedest things (**BR** == breakroom)_
 1. "You can now get it up in about an hour..."
 1. "Wait a minute, you can not come in here wearing that hat."
 1. "I'll make somebody help me."
-1. "I’m half tempted to go sit in my car because I’m so cold."
+1. "I'm half tempted to go sit in my car because I'm so cold."
 1. "I played soccer for like, 5 or 6 years."
 1. "I'm not an expert. By any means."
 1. "I'm not a pretty sleeper."
@@ -113,7 +113,7 @@ _co-workers say the darnedest things (**BR** == breakroom)_
 1. "It's STILL not working."
 1. "Ha ha ha... I almost killed it."
 1. "I'm so jealous of your desk."
-1. "It’s raining if your windows are down."
+1. "It's raining if your windows are down."
 1. "I had all sorts of issues, but I thought they were VDI-related."
 1. "Yeah... huh, what? Yes me!"
 1. "That's mosquito-borne."
@@ -124,7 +124,7 @@ _co-workers say the darnedest things (**BR** == breakroom)_
 1. "Oh, hey! You've been in the office a lot lately!"
 1. "One day you'll get it right... one day."
 1. "Do you have a pot for my banana tree?  My banana tree needs a new home."
-1. "That’s how **I** roll."
+1. "That's how **I** roll."
 1. "Just stand there with a cry bucket."
 1. "Okay, begin the bludgeoning."
 1. "Good luck, just be careful."
@@ -140,7 +140,7 @@ _co-workers say the darnedest things (**BR** == breakroom)_
 1. "No pants on."
 1. ”3 down... 20 to go."
 1. "They have an awesome fish sandwich."
-1. "I grew up with this, so it’s, like, nostalgic to listen to old-school Eminem."
+1. "I grew up with this, so it's, like, nostalgic to listen to old-school Eminem."
 1. 1: “Like, I have to send it from Dropbox.”  
 2: "I don't know what Dropbox is."
 1. "Sometimes I put my pizza on a napkin, but then the cheese flows over."
@@ -150,4 +150,16 @@ _co-workers say the darnedest things (**BR** == breakroom)_
 1. "I'm in 'type' mode."
 1. "You can probably hack your way in, but that's not a good option."
 1. "Logic seriously pollutes your trash."
-1. "This should do what it’s supposed to do."
+1. "This should do what it's supposed to do."
+1. "I'm not going to be a dick about it."
+1. "20 minutes ago I called someone else a dumbass."
+1. "Different 'do'; I like it!"
+1. "We can't start going down that path."
+1. "No, I'm just waiting for instructions, what do you want me to do now?"
+1. "Everywhere I go is different."
+1. "That's not really an exact answer."
+1. "It's raining out there... hey, did you get wet?"
+1. "He better bring in some pastries, or I'm going to ride his ass till he does."
+1. "You're looking a little white."
+1. "But technology is changing so fast; next year we'll have some kind of new whiz-bang device we'll all have to have."
+1. "I've got to go get my third cup of coffee."
