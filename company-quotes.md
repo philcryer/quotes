@@ -165,7 +165,6 @@ _co-workers say the darnedest things (**BR** == breakroom)_
 1. "But technology is changing so fast; next year we'll have some kind of new whiz-bang device we'll all have to have."
 1. "Don't lose it while it's hot in your brain."
 1. "I've got to go get my third cup of coffee."
-<<<<<<< HEAD
 1. "That was the worst meeting I've every experienced."
 1. "God, you drive slow."
 1. Man: "I **am** my daughter's favorite princess."
@@ -201,5 +200,3 @@ _co-workers say the darnedest things (**BR** == breakroom)_
 1. "It's an acquired taste."
 1. "And then they have mini-Jenga. It's *so* much more fun than big Jenga."
 1. "So, my computer is doing that thing again."
-=======
->>>>>>> 0d0f23024966a11c25694b022034ddc5196262c3
