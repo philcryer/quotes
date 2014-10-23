@@ -221,3 +221,6 @@ _co-workers say the darnedest things (**BR** == breakroom)_
 1. "Is this an acceptable method? If so, let's make it an acceptable method."
 1. "Glad to see you working."
 1. "I was a little embarrassed to ask people for selfies."
+1. "OMG I hate that."
+1. "Actually, if you look at it at an angle, it looks different than if you look at it head on.
+1. "How'd I click on all these links already? I don't remember doing any of this."
