@@ -254,3 +254,4 @@ _co-workers say the darnedest things (**BR** == breakroom)_
 1. HIM: "We need the talent."
 1. HIM: "You guys are not going to be replaced."
 1. "They must have cows over there, because I hear cows every now and then."
+1. "We need a broader, holistic view of the internet of things initiative"
