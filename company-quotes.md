@@ -254,4 +254,17 @@ _co-workers say the darnedest things (**BR** == breakroom)_
 1. HIM: "We need the talent."
 1. HIM: "You guys are not going to be replaced."
 1. "They must have cows over there, because I hear cows every now and then."
+<<<<<<< HEAD
+1. 1: "I don't want to say this out loud, but... *inaudible*"  
+2: "That would be bad."
+1. "The next time it rains, I’m working from home. I’m not dealing with the traffic."
+1. "Did you actually throw up or were you just dry heaving?"
+1. "And what does 'hacked' mean?"
+1. BR: "Awww... Chef Boyardee!" (as an explitive)
+1. "Are you the fudge maker or is that your wife?"
+1. "I was close... New Zealand's close to Australia."
+1. "Get 'em yourself, b\*tch!"
+1. "We should have the response page be ASCII. And if it's down? Bad ASCII."
+=======
 1. "We need a broader, holistic view of the internet of things initiative"
+>>>>>>> d39b932badb4077214f11b5632db0f8f69fa8026
