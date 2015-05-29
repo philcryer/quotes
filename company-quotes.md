@@ -7,7 +7,7 @@ _generic, useful laugh getters, almost regardless of current topic_
 * Has this ever worked?™
 * That's not supported™
 * That will come up at the review™
-* ¯\\(°_o)/¯ or my preference ¯\\_(ツ)_/¯
+* ¯\\(°_o)/¯ or my preference ¯\\\\_(ツ)_/¯
 * Is the service running?™
 * What are we doing now?™
 * So tell me, have you tried rebooting?™
