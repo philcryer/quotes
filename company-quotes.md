@@ -40,7 +40,8 @@ _a new section in our canon - selling products you know and love_
 * "Hey, man... can you answer a quick question? Really should just be a one off."  
 "Nope."  
 "Thanks. Have a great weekend!"
-
+* Here’s the high-level goals. Keep these to yourselves for now. Some things may cause some uneasyness in other areas, especially the item under People.
+* Please don’t share this due to the sensitivity and the need for further definition of some of the items.
 
 ## ${COMPANY}
 _we are ${COMPANY}, or something like that, are we corpy enough for you?_
