@@ -334,3 +334,7 @@ _co-workers say the darnedest things (**BR** == breakroom)_
 1. "Well, they were doing a deploy, but it's never caused a problem before."
 1. "I'm thinking the app that crashes the most is the one that's causing it"
 1. "Well, that doesn't work."
+1. Siri: "Alright, getting you directions to Panara Bread."
+1. "I'm trying to match my expectations to reality."
+1. "They just set out a bunch of food. It's from yesterday."
+1. "I saw something that was in .NET that was an alpha..."
