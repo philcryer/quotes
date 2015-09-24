@@ -40,7 +40,8 @@ _a new section in our canon - selling products you know and love_
 * "Hey, man... can you answer a quick question? Really should just be a one off."  
 "Nope."  
 "Thanks. Have a great weekend!"
-
+* Here’s the high-level goals. Keep these to yourselves for now. Some things may cause some uneasyness in other areas, especially the item under People.
+* Please don’t share this due to the sensitivity and the need for further definition of some of the items.
 
 ## ${COMPANY}
 _we are ${COMPANY}, or something like that, are we corpy enough for you?_
@@ -334,7 +335,10 @@ _co-workers say the darnedest things (**BR** == breakroom)_
 1. "Well, they were doing a deploy, but it's never caused a problem before."
 1. "I'm thinking the app that crashes the most is the one that's causing it"
 1. "Well, that doesn't work."
+<<<<<<< HEAD
 1. Siri: "Alright, getting you directions to Panara Bread."
 1. "I'm trying to match my expectations to reality."
 1. "They just set out a bunch of food. It's from yesterday."
 1. "I saw something that was in .NET that was an alpha..."
+=======
+>>>>>>> 28b3b8c51763184825b664f553e1ac5daa1f16f5
