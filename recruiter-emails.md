@@ -9,3 +9,4 @@ _you seem perfect for this role_
 * "We are assisting several clients with a direct hire for the following skills:  Network Engineer, Sr. System Admin, a Storage Engineer.  If you are interested in being considered and learning more details, please forward a recent copy of your resume for review and consideration."
 * "...you could potentially be a great fit for a variety of Project Management roles we currently have open."
 * "Let me know what works and I am praying I hear back from you soon!"
+* "I wanted to touch base with you as there have been numerous conversations taking place in regards to the possibility of you working with us.  Based on everything that I have been told - you can stop looking for what you are going to move on to as you have already found it with ${COMPANY}.  Please let me know when you are close to being ready to make a move and we will get things started here!"
