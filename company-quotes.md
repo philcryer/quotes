@@ -394,6 +394,7 @@ _we are ${COMPANY}, or something like that, are we corpy enough for you?_
 1. "...it's just so I know we're all on the same page."
 1. OHISF: "Sorry, you're wrong. Got it, psychic-ass?"
 1. "Do you have any stamps I can buy?"
+<<<<<<< HEAD
 1. "Wow, that's pretty basic stuff."
 1. "That's how we got in the mess we are now!"
 1. "I don't know what it is, but I know it's not that."
@@ -410,3 +411,10 @@ _we are ${COMPANY}, or something like that, are we corpy enough for you?_
 1. Ambiguous European accent: "In this case, number of rentals does not make sense."
 1. "I'll be alright, because I'll take 270 to the Page extention."
 
+=======
+1. **HIM:** "Just so we're sure we're on the main page..."
+1. "Wow, that's pretty basic stuff."
+1. "That's how we got in the mess we are now!"
+1. **HIM:** "I think we need to take a proactive approach instead of a reactionary approach."
+1. "I don't know what it is, but I know it's not that."
+>>>>>>> fc6590ed12078a8bacd4268032e1cd71d447e262
