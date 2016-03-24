@@ -13,5 +13,6 @@ _you seem perfect for this role_
 * "I found your resume out there on the inter webs and I thought I would give you a call. I was quite intrigued by the fact that you have your summary statement and a Pee-Wee's Big Adventure quote."
 * "I am hiring for a client of mine here in ${CITY}. They are looking for a Windows System Admin. The reasoning for this opening is because they are looking to move their website into the cloud. It is a Direct Hire and the pay is around 65-75K!"
 * "Hope you are in pink of your health. I have found your resume in my database and would like to present the below mentioned position to you."
+* "They have a very progressive culture – big screen TV’s, casual dress attire, beer, etc, etc."
 
 
