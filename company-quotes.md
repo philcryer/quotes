@@ -420,3 +420,8 @@ _we are ${COMPANY}, or something like that, are we corpy enough for you?_
 1. **HIM:** "What happens in retrospective, stays in retrospective."
 1. "I have a John Deere riding mower that is about 15-16 years old that still works."
 1. "AHHHH my nose itches."
+1. **HIM:** "We have to work a little smarter to work a little harder. I don't want anyone to think they're just shoveling coal."
+1. **HIM:** "When we're working on our goals this week, we want to make sure we're aligning with the team priorities."
+1. **HIM:** "We have to look at forecasting from a new perspective."
+1. **HIM:** "I just finished up a bit pull request."
+1. "We try to buy high end laptops for developers."
