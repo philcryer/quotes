@@ -425,3 +425,5 @@ _we are ${COMPANY}, or something like that, are we corpy enough for you?_
 1. **HIM:** "We have to look at forecasting from a new perspective."
 1. **HIM:** "I just finished up a bit pull request."
 1. "We try to buy high end laptops for developers."
+1. "So, I got Apache going..."
+1. "That's why agile is a verb and not a noun."
