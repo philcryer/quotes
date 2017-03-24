@@ -16,4 +16,5 @@ _you seem perfect for this role_
 * "They have a very progressive culture – big screen TV’s, casual dress attire, beer, etc, etc."
 * "Job Description - Minimum Required Skills: Atlassian JIRA, Confluence, Bamboo, Subversion, Version Control, CVS, Git, Puppet, Linux, SCons"
 * "Certification not required, but must be familiar with ITIL concepts. (i.e.; read the ITIL for Dummies book.)"
-
+* "You are receiving this email as we have worked in the past and have great regards for each other :)"
+* "Let me know if you are looking or know of someone that might be a reat fit for this role. We do offer a lucrative referral policy and would love to offer that to you."
