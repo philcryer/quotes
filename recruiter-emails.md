@@ -19,3 +19,4 @@ _you seem perfect for this role_
 * "You are receiving this email as we have worked in the past and have great regards for each other :)"
 * "Let me know if you are looking or know of someone that might be a reat fit for this role. We do offer a lucrative referral policy and would love to offer that to you."
 * "Set the direction in the tools that so training the end users and helping to set up or stand up the tools in the environment"
+* "Experience with multiple disciplines strongly preferred"
