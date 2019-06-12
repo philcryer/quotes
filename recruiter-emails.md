@@ -26,3 +26,4 @@ _you seem perfect for this role_
 * "Accelerate digital transformation to enhance business opportunities through consultative engagements with internal infrastructure, operations, app and dev teams."
 * "Facilitate distributed system reliability and scalability – and serve as a change agent for - DevOps and SRE methodologies."
 * "Leverage value focused systems thinking, continuous feedback and continual experimentation to develop shared values and catalyze innovation."
+* "I was rummaging through LinkedIn profiles, and briefly stopped to check out your information. I noticed you have some wonderful things going on at your current gig, and was hoping might have a moment to chat about how it's going?"
